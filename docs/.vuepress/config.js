@@ -1,7 +1,7 @@
 module.exports = {
     title: 'HI I AM ICE',
     description: 'Review knowledge',
-    base:'/knowledge',
+    base:'/knowledge/',
     head: [
         ['link', 
             { rel: 'icon', href: '/logo.jpg' }
